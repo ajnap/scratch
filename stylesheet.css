@@ -1,0 +1,31 @@
+.mainbody {
+    background-color: whitesmoke;
+    text-align: center;
+    font-weight: bold;
+    border: 2px rgba(5, 5, 5, 0.921);
+    border-style: dashed;
+}
+
+.resume {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    /* border: 1px gold; */
+    border-style: groove;
+}
+
+.video {
+    border-style: initial;
+    text-align: center;
+    border: 1px gold;
+    color: burlywood;
+}
+
+.tableau {
+    color: rgb(109, 224, 165);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.center {
+    text-align: center;
+}
